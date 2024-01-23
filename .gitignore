@@ -1,0 +1,10 @@
+# Pliki i katalogi, które mają być zignorowane przez Git
+
+# Katalogi
+node_modules/
+
+# Pliki
+*.log
+*.txt
+.env
+
